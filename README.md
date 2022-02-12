@@ -2,7 +2,8 @@
 - 👀 I’m interested in architecture, web development and ux/ui design
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on with people all around the world
-- 📫 How to reach me you can reach me on LinkedIn and say hi: https://www.linkedin.com/in/luiseduardodiazv/ or you can reach me on twitter to: https://twitter.com/luiseduardodv
+- 📫 How to reach me you can reach me on LinkedIn and say hi: https://www.linkedin.com/in/luiseduardodiazv/ 
+    or you can reach me on twitter to: https://twitter.com/luiseduardodv
 
 <!---
 luisedvas/luisedvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
