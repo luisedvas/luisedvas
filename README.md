@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luis Eduardo Díaz
-- 👀 I’m interested in architecture, web development and ux/ui design
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👋 Hi, I’m Luis. I´m a self taught web developer based on Ciudad Ojeda, Venezuela.
+- 👀 I’m interested in architecture, software development and design.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 🗺️ I'm looking to collaborate and learn with people all around the world
 - 📫 You can reach me on LinkedIn and say hi: https://www.linkedin.com/in/luiseduardodiazv/ 
 - 🧑‍💻 Or you can reach me on twitter too: https://twitter.com/luiseduardodv
