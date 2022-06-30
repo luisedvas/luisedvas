@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Luis. I´m a self taught web developer based on Ciudad Ojeda, Venezuela.
-- 👀 I’m interested in architecture, software development and design.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👋 Hi, I’m Luis. I am an architecture student and a self-taught web developer based in Venezuela.
+- 👀 My interests are focused on urban design, research, and software development.
+- 🌱 I am currently learning HTML, CSS and JavaScript.
+- 🧠 I´m also interested in learning different web-based tools with frameworks and languages such as Ruby on Rails, PostgreSQL, React, Heroku, Azure, Node.js, Google Cloud Platform, and Python.
 - 🗺️ If you want to stay in touch:
 - 📫 My LinkedIn: https://www.linkedin.com/in/luiseduardodiazv/ 
 - 🧑‍💻 My Twitter: https://twitter.com/luiseduardodv
