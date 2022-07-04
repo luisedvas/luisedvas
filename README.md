@@ -4,7 +4,7 @@
 - 🧠 I´m also interested in learning different web-based tools with frameworks and languages such as Ruby on Rails, PostgreSQL, React, Heroku, Azure, Node.js, Google Cloud Platform, and Python.
 - 🗺️ If you want to stay in touch:
 - 📫 My LinkedIn: https://www.linkedin.com/in/luiseduardodiazv/ 
-- 🧑‍💻 My Twitter: https://twitter.com/luiseduardodv
+- 🐥 My Twitter: https://twitter.com/luiseduardodv
 
 <!---
 luisedvas/luisedvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
