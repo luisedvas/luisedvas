@@ -1,6 +1,6 @@
 ## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Luis**](https://www.luisedvas.github.io), an architect from Venezuela.
+I'm [**Luis**](https://luisedvas.github.io), an architect from Venezuela.
 
 I currently work as an architect at [**Alcaldia de Lagunillas**](https://github.com/aml).
 
