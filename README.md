@@ -14,4 +14,6 @@ I love learning and practice new things everyday. In my free time, I study softw
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/luisediazv)
 
+<a href="https://twitter.com/luisedvas" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/luisedvas)
