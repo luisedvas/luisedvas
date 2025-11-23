@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Luis, an architect and software engineer from Venezuela living in New York City.
+I'm Luis, an architect and software engineer from Venezuela.
 
 I currently work as a software engineer at @google. Previously, I was at @Alcaldia de Lagunillas and @Global Caroni.
 
