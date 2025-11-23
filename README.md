@@ -2,12 +2,13 @@
 
 I'm [**Luis**](https://www.linkedin.com/in/luisediazv/), an architect from Venezuela.
 
-In my free time, I study software engineering.
-
 I currently work as an architect at [**Alcaldia de Lagunillas**](https://github.com/aml).
 
 
-I'm interested in art, design, books, math, science and technology. I love learning and practice new things everyday.
+I'm interested in art, design, books, math, science and technology. 
+
+I love learning and practice new things everyday. In my free time, I study software engineering.
+
 
 #### Let's connect!
 
